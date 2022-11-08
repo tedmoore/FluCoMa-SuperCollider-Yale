@@ -1,7 +1,7 @@
 # FluCoMa Workshop
 
 _Nov 9, 2022_  
-_11:35am - 12:50pm (75 minutes)_
+_11:35am - 12:50pm   (75 minutes)_
 
 ### Preparation
 
@@ -11,6 +11,7 @@ Follow along and code along with the [MLPRegressor Tutorial](https://www.youtube
 
 * What is FluCoMa?
 * [Install FluCoMa](https://learn.flucoma.org/installation/sc/)
+* Check out the "Fluid Corpus Manipulation Toolkit" Guide in the SuperCollider Help Files
 
 ### _(Review)_ Neural Networks Regressor for synth control
 
@@ -23,6 +24,12 @@ Follow along and code along with the [MLPRegressor Tutorial](https://www.youtube
 * Musical Example: check out the [article](https://learn.flucoma.org/explore/harker/) on [Alex Harker](https://www.alexanderjharker.co.uk/)'s [_Drift Shadow_](https://www.youtube.com/watch?v=lHEWsysupaA)
 
 * Video Tutorial [MLPClassifier](https://www.youtube.com/watch?v=mxmMBvi3Cb0)
+
+**More information on Neural Networks in FluCoMa**
+
+* [Neural Network Parameters](https://learn.flucoma.org/learn/mlp-parameters/)
+* [Neural Network Training](https://learn.flucoma.org/learn/mlp-training/)
+* [Training and Testing Data](https://learn.flucoma.org/learn/training-testing-split/)
 
 ### _quartet_ by Ted Moore
 
