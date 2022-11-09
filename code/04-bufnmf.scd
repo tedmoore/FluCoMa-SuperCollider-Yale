@@ -6,6 +6,8 @@
 // hear the original mono sound file to know what we're working with
 ~drums.play;
 
+FluidWaveform(~drums);
+
 // an empty buffer for the decomposed components to be written into:
 ~resynth = Buffer(s);
 

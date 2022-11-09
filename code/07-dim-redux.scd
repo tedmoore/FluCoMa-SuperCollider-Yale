@@ -4,7 +4,6 @@
 // load into a buffer
 ~loader = FluidLoadFolder(~folder).play(s,{"done loading folder".postln;});
 
-
 FluidWaveform(~loader.buffer);
 
 // sum to mono (if not mono)

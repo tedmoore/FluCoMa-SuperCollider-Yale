@@ -56,7 +56,7 @@
 
 // create a classifier
 (
-~nn = FluidMLPClassifier(s,hidden:[5],activation:1,maxIter:1000,learnRate:0.1,momentum:0.9,batchSize:5,validation:0);
+~nn = FluidMLPClassifier(s,hiddenLayers:[5],activation:1,maxIter:1000,learnRate:0.1,momentum:0.9,batchSize:5,validation:0);
 )
 
 // run this fitting function for as long as the error is not acceptable
